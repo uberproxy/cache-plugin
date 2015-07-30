@@ -11,8 +11,8 @@
     "url": "git://github.com/uberproxy/cache-plugin.git"
   },
   "uberproxy-plugin": true,
-  "author": "",
-  "license": "ISC",
+  "author": "UberProxy <uberproxy@uberproxy.org>",
+  "license": "MIT",
   "dependencies": {
     "memcached": "^2.1.0",
     "npm": "^2.13.1",
